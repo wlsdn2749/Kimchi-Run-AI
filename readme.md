@@ -25,6 +25,7 @@ Unity ML Agent를 사용한 Kimchi-Run 강화학습 프로젝트입니다. 기�
 - ML Agent가 지원하는 모든 기능을 지원
 - 강화학습 알고리즘 적용 AI Agent 대결 기능 추가
 - 학습 환경 prefabs를 베이스로한 MultiArea Learning 가능
+- F1 Key를 통해 사전설정된 Debug 확인가능
 
 ## 설치 환경
 1. Unity 6000.0.31f1 (Latest!)
