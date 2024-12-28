@@ -3,10 +3,9 @@
 
 <img src="/static/Kimchi-run-normal.gif" width="820" height="480">
 <div align="center"><b>Normal</b></div>
+
 <img src="/static/Kimchi-run-debug.png" width="820" height="480">
 <div align="center"><b>Debug Features</b></div>
-
-
 <div align="center">
 
 **[Unity ML-Agents ToolKit](https://unity-technologies.github.io/ml-agents/) Kimchi-Run AI Sample-Play**
@@ -19,7 +18,9 @@
 Unity ML Agent를 사용한 Kimchi-Run 강화학습 프로젝트입니다. 기본적인 플레이는 [노마드 코더 김장 게임](https://www.youtube.com/watch?v=A58_FWqiekI)을 따릅니다. 거기에 AI Agent 학습을 시켜 AI와 플레이어 간 대결을 할 수 있도록 지원하였습니다.  
 
 - **개발 기간 (1주)**
-
+- [게임 플레이 itch.io](https://jalpha99.itch.io/kimchi-run-vs-ai)
+- [게임 플레이 play.unity](https://play.unity.com/en/games/c90589a3-652f-4cf4-9d12-e7523a2f21da/kimchi-run-copy)
+- 
 ## 주요 기능
 - ML Agent로 플레이어 AI를 학습
 - ML Agent가 지원하는 모든 기능을 지원
